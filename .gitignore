@@ -1,0 +1,18 @@
+/pretrain_models/
+/citation_finetuned_models/
+/logs/
+/data/controllable-citation-generation/
+/bert/results/
+/data/SciCite/
+/data/custom_datasets/
+/test/
+/bert/wandb/
+/bert with llama/results/
+/bert/__pycache__/
+/bert_with_llama/__pycache__/
+/llama/checkpoints/
+/bert with llama/finetuned_models/
+/baselines/stanford-corenlp/
+/baselines/.vector_cache/
+bert with llama/__pycache__/ablation_study.cpython-310.pyc
+bert with llama/__pycache__/AttentionVisualization.cpython-310.pyc
