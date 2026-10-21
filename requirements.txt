@@ -1,9 +1,2 @@
 # Tested environment reported in the paper:
-# Python 3.10, PyTorch 2.7.1, CUDA 12.8
-
-torch==2.7.1
-numpy>=1.26,<3.0
-transformers>=4.40,<5.0
-scikit-learn>=1.4,<2.0
-scikit-optimize>=0.10,<1.0
-accelerate>=0.30,<2.0
+#
